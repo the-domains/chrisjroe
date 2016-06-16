@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Chrisjroe ]]></title>
+        <description><![CDATA[Chrisjroe ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 16 Jun 2016 11:49:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[2016, the year of less.]]></title>
+            <description><![CDATA[<article><h1>2016, the year of less.</h1><p>I’ve been wanting to address the slogan I’ve been throwing around on social media as I don’t feel I’ve fully explained what the year of less actually means. To me 2016 is a time to declutter my life and allow myself the funds, focus and free time to devote to my passions. Whether it be writing, photography or mingling with awesome creative people on the Internet. In the spirit of less I have provided a few short examples below of just how I’m working towards this goal, these areas will be explored in a bit more depth in future posts but for now…</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c286b401-d66f-48a8-ad9d-1fe611e30a4b.jpg"></article>]]></description>
+            <link>undefined2016-the-year-of-less/index.html</link>
+            <guid isPermaLink="false">5067e0a9-d0ce-4927-92ec-1b06172820bc</guid>
+            <pubDate>Thu, 16 Jun 2016 11:49:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
